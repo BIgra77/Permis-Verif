@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/runFragment"
+        android:title="Vos trajets"
+        android:icon="@drawable/ic_car" />
+
+    <item android:id="@+id/statisticsFragment"
+        android:title="Récapitulatif"
+        android:icon="@drawable/ic_speed" />
+
+    <item android:id="@+id/settingsFragment"
+        android:title="Paramètres"
+        android:icon="@drawable/ic_settings" />
+
+</menu>

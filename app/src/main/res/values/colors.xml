@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="md_blue_50">#E3F2FD</color>
+    <color name="md_blue_100">#BBDEFB</color>
+    <color name="md_blue_200">#90CAF9</color>
+    <color name="md_blue_300">#64B5F6</color>
+    <color name="md_blue_400">#B2BD7E</color>
+    <color name="md_blue_500">#749C75</color>
+    <color name="md_blue_700">#264B5A</color>
+    <color name="md_blue_800">#264B5A</color>
+    <color name="md_blue_900">#0E2435</color>
+    <color name="md_blue_A100">#3B5B56</color>
+    <color name="md_blue_A200">#011936</color>
+    <color name="md_blue_A400">#465362</color>
+    <color name="md_blue_A700">#000000</color>
+    <color name="colorAccent">#E9D985</color>
+    <color name="errorColor">#D50000</color>
+</resources>

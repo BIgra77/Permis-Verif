@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Permis Verif Final</string>
+    <string-array name="filter_options">
+        <item>Date</item>
+        <item>Temps de Trajet</item>
+        <item>Distance</item>
+        <item>Vitesse Moyenne</item>
+    </string-array>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyCZ_A5gXRDaa5Bw4k17WNmviaR8BRiqYOI</string>
+</resources>
