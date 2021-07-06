@@ -22,9 +22,9 @@ class SettingsFragment : Fragment(R.layout.fragment_settings) {
         btnLogOut.setOnClickListener {
             //val success = applyChangesToSharedPref()
             //if(success) {
-                Snackbar.make(view, "Changement effectués", Snackbar.LENGTH_LONG).show()
+                Snackbar.make(view, "Fonctionnalité bientôt disponible", Snackbar.LENGTH_LONG).show()
           //  } else {
-                Snackbar.make(view, "Merci de remplir tous les champs", Snackbar.LENGTH_LONG).show()
+                Snackbar.make(view, "Fonctionnalité bientôt disponible", Snackbar.LENGTH_LONG).show()
             }
         }
     }
